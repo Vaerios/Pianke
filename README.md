@@ -16,8 +16,8 @@
 
 | 设备 | 安装包 | 大小 | 安装要求 |
 | :--- | :--- | ---: | :--- |
-| iPhone、iPad | **[下载 iOS 版 IPA](./downloads/ios/pianke-1.13-unsigned.ipa?raw=true)** | 3.28 MiB | iOS / iPadOS 17.0 及以上，需自行签名 |
-| 安卓手机、平板 | **[下载 Android 版 APK](./downloads/android/pianke-1.13.apk?raw=true)** | 153 KiB | Android 8.0 及以上，APK 已签名 |
+| iPhone、iPad | **[下载 iOS 版 IPA](https://github.com/Vaerios/Pianke/releases/download/v1.13/pianke-1.13-unsigned.ipa)** | 3.28 MiB | iOS / iPadOS 17.0 及以上，需自行签名 |
+| 安卓手机、平板 | **[下载 Android 版 APK](https://github.com/Vaerios/Pianke/releases/download/v1.13/pianke-1.13.apk)** | 153 KiB | Android 8.0 及以上，APK 已签名 |
 
 ### 安装
 
