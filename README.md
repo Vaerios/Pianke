@@ -2,6 +2,12 @@
 
 在「今日更新」等一集新剧，沿着喜欢的演员找到下一部电影，也可以回到「记录」，从上次停下的地方继续看。
 
+## 界面预览
+
+| 发现 | 搜索 | 记录 | 说明 |
+| --- | --- | --- | --- |
+| ![发现](./assets/screenshots/discover.jpg) | ![搜索](./assets/screenshots/search.jpg) | ![记录](./assets/screenshots/history.jpg) | ![说明](./assets/screenshots/about.jpg) |
+
 ## 下载片刻 1.13
 
 | 设备 | 安装包 | 大小 | 安装要求 |
