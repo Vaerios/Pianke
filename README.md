@@ -4,9 +4,13 @@
 
 ## 界面预览
 
-| 发现 | 搜索 | 记录 | 说明 |
-| --- | --- | --- | --- |
-| ![发现](./assets/screenshots/discover.jpg) | ![搜索](./assets/screenshots/search.jpg) | ![记录](./assets/screenshots/history.jpg) | ![说明](./assets/screenshots/about.jpg) |
+![发现](./assets/screenshots/discover.jpg)
+
+![搜索](./assets/screenshots/search.jpg)
+
+![记录](./assets/screenshots/history.jpg)
+
+![说明](./assets/screenshots/about.jpg)
 
 ## 下载片刻 1.13
 
